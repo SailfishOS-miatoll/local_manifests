@@ -8,7 +8,7 @@
   <project path="rpm/"
     name="SailfishOS-miatoll/droid-hal-miatoll" revision="master" />
   <project path="hybris/droid-configs"
-    name="SailfishOS-miatoll/droid-config-miatoll" revision="master" />
+    name="SailfishOS-miatoll/droid-configs-miatoll" revision="master" />
   <project path="hybris/droid-hal-version-miatoll"
     name="SailfishOS-miatoll/droid-hal-version-miatoll" revision="master" />
   <project path="hybris/droid-system-miatoll"
