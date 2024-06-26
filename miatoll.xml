@@ -17,4 +17,6 @@
     name="SailfishOS-miatoll/hybris-installer" revision="master" />
   <project path="hybris/mw/hwcrypt"
     name="SailfishOS-miatoll/hwcrypt" revision="master" />
+  <project path="hybris/mw/sailfish-fpd-community"
+    name="sailfishos-open/sailfish-fpd-community" revision="master" />
 </manifest>
