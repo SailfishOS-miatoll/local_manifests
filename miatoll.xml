@@ -2,6 +2,8 @@
 <manifest>
   <project path="device/xiaomi/miatoll" name="SailfishOS-miatoll/android_device_xiaomi_miatoll" revision="lineage-18.1" />
   <project path="device/xiaomi/sm6250-common" name="SailfishOS-miatoll/android_device_xiaomi_sm6250-common" revision="hybris-18.1" />
+  <project path="vendor/xiaomi/sm6250-common" name="SailfishOS-miatoll/android_vendor_xiaomi_sm6250-common" revision="master" />
+  <project path="vendor/xiaomi/miatoll" name="SailfishOS-miatoll/android_vendor_xiaomi_miatoll" revision="master" />
   <project path="kernel/xiaomi/kernel_xiaomi_sm6250" name="SailfishOS-miatoll/kernel_xiaomi_sm6250" revision="sailfish" />
   <project path="hardware/xiaomi" remote="github" name="LineageOS/android_hardware_xiaomi" />
   <project path="miatoll-patches" name="SailfishOS-miatoll/miatoll_patches" revision="master" />
